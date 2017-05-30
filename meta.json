@@ -3,6 +3,14 @@
    "maintainer" : "Lars Relund <junk@relund.dk>",
    "instanceGroups": [
       {
+         "subfolder": "CFLP_UFLP",
+         "class": "Facility location",
+         "tags": [ "capacitated", "CFLP", "UFLP", "uncapacitated" ],
+         "format": [ "raw" ],
+         "desc": "Instances for the capacitated and uncapacitated facility location problems.",
+         "creator" : "Sune Lauth Gadegaard <sgadegaard@econ.au.dk>"
+      },
+      {
          "subfolder": "SSCFLP",
          "class": "Facility location",
          "tags": [ "singleSource", "capacitated", "singleSourceCapacitated", "SSCFLP" ],
