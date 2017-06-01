@@ -12,15 +12,15 @@ class>_<origin>_<problem>_<cost structure>.raw`.
 
 The instances for CFLP are a subset of the test bed created for the paper Klose and Görtz (2007)
 consisting of 45 instances ranging from 100 customers and 100 facility sites to 200 customers and
-200 facility sites (first 45 problems in subfolder `CFLP_UFLP`). 
+200 facility sites (first 45 problems in sub folder `CFLP_UFLP`). 
 
 The instances for UFLP we use a slightly larger subset of the instances created by Klose and Gôrtz
 (2007) consisting of 60 instances ranging in size from 100 customers and 100 facilities to 100
-customers and 500 facility sites (all 60 problems in subfolder `CFLP_UFLP`). .
+customers and 500 facility sites (all 60 problems in sub folder `CFLP_UFLP`). .
 
 The instances for SSCFLP are the instances proposed in Holmberg, Rônnqvist,
 and Yuan (1999) that consists of 71 instances as well as 57 instances from the testbed used
-in Díaz and Fernández (2002). All instances are in the subfolder `SSCFLP`.
+in Díaz and Fernández (2002). All instances are in the sub folder `SSCFLP`.
 
 For each testbed three cost structures for the $t_{i,j}$'s have been generated. For more details see
 the paper.
