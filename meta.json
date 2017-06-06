@@ -1,6 +1,7 @@
 {
    "contributionName": "Gadegaard16",
    "maintainer" : "Sune Lauth Gadegaard <sgadegaard@econ.au.dk>",
+   "algorithm" : "https://github.com/SuneGadegaard/BOCBLP",
    "instanceGroups": [
       {
          "subfolder": "CFLP_UFLP",
