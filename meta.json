@@ -6,6 +6,7 @@
       {
          "subfolder": "CFLP_UFLP",
          "class": "Facility location",
+         "objectives": 2,
          "tags": [ "capacitated", "CFLP", "UFLP", "uncapacitated" ],
          "format": [ "raw" ],
          "desc": "Instances for the capacitated and uncapacitated facility location problems.",
@@ -14,6 +15,7 @@
       {
          "subfolder": "SSCFLP",
          "class": "Facility location",
+         "objectives": 2,
          "tags": [ "singleSource", "capacitated", "singleSourceCapacitated", "SSCFLP" ],
          "format": [ "raw" ],
          "desc": "Instances for the single source capacitated facility location problem.",
