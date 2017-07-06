@@ -64,5 +64,5 @@ t_{2,1}... t_{2,m}
 t_{n,1}... t_{n,m}
 ```
 
-If the instance is a uncapacitated facility location problem (UFLP), then the demand and capacity parameters in the input file is ignored and demand is set to $d_j = 1$ and each capacity is set to $s_i = m$. This provides a valid instance of the UFLP
+If the instance corresponds to an uncapacitated facility location problem (UFLP), then the demand and capacity parameters in the input file are ignored and demand is set to $d_j = 1$ and each capacity is set to $s_i = m$. This provides a valid instance of the UFLP
 
