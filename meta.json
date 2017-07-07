@@ -5,7 +5,7 @@
    "instanceGroups": [
       {
          "subfolder": "CFLP_UFLP",
-         "class": "Facility location",
+         "class": "Facility Location",
          "objectives": 2,
          "tags": [ "capacitated", "CFLP", "UFLP", "uncapacitated" ],
          "format": [ "raw" ],
@@ -14,7 +14,7 @@
       },
       {
          "subfolder": "SSCFLP",
-         "class": "Facility location",
+         "class": "Facility Location",
          "objectives": 2,
          "tags": [ "singleSource", "capacitated", "singleSourceCapacitated", "SSCFLP" ],
          "format": [ "raw" ],
